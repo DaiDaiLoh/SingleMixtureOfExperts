@@ -1,6 +1,6 @@
 # SingleMixtureOfExperts
 This repository contains our experimental code for what we call "Single Mixture of Experts":<br/>
-A new way of thinking mixture of experts.<br/>
+A new way of thinking specialised ensembles.<br/>
 <br/>
 When training transformers, splitting up the feed forward part of the network into different "experts" can be highly beneficial:<br/>
 Experts can specialise on certain tokens, with a routing network figuring out which experts best gets which tokens.<br/>
