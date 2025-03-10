@@ -22,4 +22,7 @@ Mixture of Experts is, in a way, a selective ensemble, but fails to use knowledg
 <tl;dr> We hope to still get to keep "one" network to not lose any knowledge when branching into an expert, but still allow some degree of specialisation.
 <br/>
 <br/>
-<h1>This is work-in progress! If you want to use this for any papers, feel free - I'd love to get a mention though, or possibly contribute something small to be amongst the authors :)</h1>
+<h3>This is work-in progress! If you want to use this for any paper or product, feel free - I'd love to get a mention though, or possibly contribute something small to be amongst the authors :)</h3>
+<h1>How to run:</h1>
+We base our code on our <a href="https://github.com/DaiDaiLoh/SimpleTransformer">SimpleTransformer</a>. Download everything in that folder, then throw the sMoE.ipynb file in there as well, then run the sMoE.ipynb notebook. 
+ <h1 color="FF0000">Note that this is active research code and not necessarily intended for production and not optimised for readability!</h1>
