@@ -1,4 +1,4 @@
-# SingleMixtureOfExperts
+# Single Mixture of Experts
 This repository contains our experimental code for what we call "Single Mixture of Experts":<br/>
 A new way of thinking specialised ensembles.<br/>
 <br/>
